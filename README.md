@@ -35,5 +35,8 @@ You'll be given a new file called uuid_name_mapping.csv, and it will link the UU
 
 Based on the Network Audit files I had access to when doing this, I've been able to re-identify 312 unique Flock users across 116 orginizations. Yet the files I used to do this contain rows for over 800,000 license plate searches from May to July. sum of This is likely limited by a couple factors: 1. not every agency (about 600 I'm aware of) with a transparency portal publishes an audit log. 2. It only works for agencies that are in the same share group as the full texy network audit file I joined it with. And of course, my own incompetence is a highly likely determinante too. If you think you can help please reach out. 
 
+Others have done great work on researching Flock Saftey including Ryan O'horo who maintains [a list of known transparency portals](https://www.ryanohoro.com/post/list-of-flock-safety-transparency-pages), 404 Media, and the EFF for starters. This work wouldn't have been possible without those prior contributions, and I hope it is useful. 
+
+
 
 
